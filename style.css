@@ -376,6 +376,12 @@ article .icon{
 .project-title{
     margin:1rem;
     color: black;
+   
+}
+
+.project-title:hover{
+    cursor:pointer
+
 }
 
 .project-btn{
